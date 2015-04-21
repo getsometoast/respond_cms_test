@@ -9,7 +9,7 @@ info.php
 themes/premium
 themes/premium/*
 
-composer.lock
+
 composer.phar
 api/vendor
 api/vendor/*
